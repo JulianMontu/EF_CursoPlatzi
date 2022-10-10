@@ -53,3 +53,5 @@ C:\Users\julia\OneDrive\Escritorio\platzi\projectef\obj\Debug\net6.0\refint\proj
 C:\Users\julia\OneDrive\Escritorio\platzi\projectef\obj\Debug\net6.0\projectef.pdb
 C:\Users\julia\OneDrive\Escritorio\platzi\projectef\obj\Debug\net6.0\projectef.genruntimeconfig.cache
 C:\Users\julia\OneDrive\Escritorio\platzi\projectef\obj\Debug\net6.0\ref\projectef.dll
+C:\Users\julia\OneDrive\Escritorio\platzi\projectef\bin\Debug\net6.0\Humanizer.dll
+C:\Users\julia\OneDrive\Escritorio\platzi\projectef\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
